@@ -1,4 +1,4 @@
-print("Program untuk mengururtkan bilangan bulat yang diinputkan user.")
+print("Program untuk mengururtkan bilangan yang diinputkan user.")
 
 angka = []
 tambah = True

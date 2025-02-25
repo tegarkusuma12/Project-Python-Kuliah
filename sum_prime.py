@@ -1,5 +1,3 @@
-n = int(input("Masukkan bilangan : "))
-
 def prima(num) :
     if num <= 1 :
         return False
@@ -16,4 +14,6 @@ def jumlah_prima(n):
       print(f"{i} + {j} = {n}")
     i += 1
 
+n = int(input("Masukkan bilangan : "))
 jumlah_prima(n)
+
